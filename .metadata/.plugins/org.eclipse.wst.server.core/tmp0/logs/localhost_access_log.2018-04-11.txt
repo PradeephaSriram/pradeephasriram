@@ -1,0 +1,9 @@
+127.0.0.1 - - [11/Apr/2018:12:56:52 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:12:56:57 +0530] "GET /FrontEnd/WEB-INF/my HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:12:57:02 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+127.0.0.1 - - [11/Apr/2018:13:54:25 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:13:54:29 +0530] "GET /FrontEnd/WEB-INF/resources/views/index.jsp HTTP/1.1" 404 992
+127.0.0.1 - - [11/Apr/2018:13:59:18 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:13:59:20 +0530] "GET /FrontEnd/WEB-INF/resources/views/index.jsp HTTP/1.1" 404 992
+127.0.0.1 - - [11/Apr/2018:14:03:40 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:14:03:41 +0530] "GET /FrontEnd/WEB-INF/resources/views/index.jsp HTTP/1.1" 404 992

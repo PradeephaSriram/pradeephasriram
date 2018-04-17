@@ -1,0 +1,8 @@
+com\niit\backend\App.class
+com\niit\backend\model\Cart.class
+com\niit\backend\model\Login.class
+com\niit\backend\model\UserRegisteration.class
+com\niit\backend\model\Category.class
+com\niit\backend\model\Supplier.class
+com\niit\backend\model\Product.class
+com\niit\backend\config\DatabaseConfig.class

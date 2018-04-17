@@ -1,0 +1,6 @@
+
+Apr 12, 2018 13:22:41.28 NEW SESSION
+Apr 12, 2018 13:22:41.28 [13700:992:0412/132241.283:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+Apr 12, 2018 13:26:53.02 [2152:6588:0412/132653.027:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+Apr 12, 2018 13:57:58.88 [2152:3984:0412/135758.887:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2018 14:11:38.97 [2152:3984:0412/141137.780:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -21

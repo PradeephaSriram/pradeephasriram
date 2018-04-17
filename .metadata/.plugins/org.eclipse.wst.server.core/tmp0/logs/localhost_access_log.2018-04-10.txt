@@ -1,0 +1,6 @@
+127.0.0.1 - - [10/Apr/2018:11:01:55 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [10/Apr/2018:11:01:58 +0530] "GET /FrontEnd/ HTTP/1.1" 200 276
+0:0:0:0:0:0:0:1 - - [10/Apr/2018:11:02:52 +0530] "GET /FrontEnd/ HTTP/1.1" 200 276
+0:0:0:0:0:0:0:1 - - [10/Apr/2018:11:03:11 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [10/Apr/2018:11:56:21 +0530] "GET /project1frontend/resources/css/table.css HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [10/Apr/2018:11:56:21 +0530] "GET /project1frontend/resources/css/navbar.css HTTP/1.1" 404 1076
